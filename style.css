@@ -248,3 +248,9 @@ body {
         display: block;
     }
 }
+
+@media screen and (max-width:400px) {
+    .sale-image__offer {
+        font-size: 6px;
+    }
+}
